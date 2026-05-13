@@ -1,7 +1,0 @@
-pytesseract
-pdf2image
-pillow
-openpyxl
-python-jose[cryptography]
-passlib[bcrypt]
-python-multipart
